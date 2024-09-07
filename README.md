@@ -1,7 +1,6 @@
 # Passwort-Tressor
 
 This is a Vault for Passwords.
-
 In Germany Language.
 
 FOR LINUX USERS.
