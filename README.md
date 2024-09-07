@@ -7,7 +7,7 @@ FOR LINUX USERS.
 
 First time to run make sure you have do step 1-3 and 4 is the execution step.
 
-Step 1:
+Step 1: 
 Install python3:
 Debian/Ubuntu: apt install python3
 
